@@ -19,8 +19,6 @@ Olivier Friard - Marco Gamba
 .. class:: center
 
 
-
-
 .. raw:: pdf
 
  PageBreak cutePage
@@ -49,14 +47,15 @@ In this case the bash allows the use of iteration techniques
 
 
 
-Tools
-=====
+Command-line tools
+==================
 
 Various tools are available to access very large files or
 
-`wc`_, `head`_, `tail`_, `grep`_, `uniq`_, `sort`_, `awk_`, `sed`_, `nl`_
+`cat`_, `wc`_, `head`_, `tail`_, `nl`_, `sort`_, `uniq`_, `grep`_, `uniq`_, `awk_`, `sed`_
 
 
+We will see how they work
 
 
 
@@ -72,8 +71,8 @@ Unix philosophy
 * Write programs to handle text streams, because that is a universal interface.
 
 
-The bash tools respect this philosophy
---------------------------------------
+The command-line tools that we will use respect this philosophy
+---------------------------------------------------------------
 
 
 `en.wikipedia.org/wiki/Unix_philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>`_
@@ -100,6 +99,7 @@ Linux
 .. image:: mac_windows_linux.jpg
    :align: center
    :width: 1000
+
 
 Linux will be used for practice during this part of the course.
 
@@ -136,17 +136,16 @@ On Linux when you launch a terminal you will obtain a shell (usually bash)
 
 You **can not** move the cursor with the mouse but you can select/copy/paste easily using the mouse buttons
 
+All commands you typed are recorded (also after power off the computer), you can easily recall them by using the up/down arrow keys
 
-
-
-
+Remember to use the TAB completion for the command-line tools and file names, be a **lazy user**!
 
 
 The shell
 =========
 
 
-Commands can be run by themselves, or you can provide additional
+Command-line tools can be run by themselves, or you can provide additional
 parameters. The typical command syntax is:
 
  ::
@@ -272,8 +271,8 @@ In this example the editor visualize end-of-line character, tab and spaces and u
 
 
 
-Anatomy of a bash tool
-======================
+Anatomy of a command-line tool
+==============================
 
 Standard streams
 -----------------
@@ -376,6 +375,13 @@ Reproducible research
 Important: Do not overwrite the results files but change the file names after every operation on your files
 
 In this way you can go back in case of mistake
+
+Example:
+
+ ::
+
+    sort file.txt > file_sorted.txt
+    head -n 100 file_sorted.txt > file_sorted_truncated.txt
 
 You can save all commands in a text file (**script**)
 
