@@ -8,7 +8,7 @@ Big data wrangling, manipulation and homogenization
 
 .. footer::
 
-        PhD course - 2017-04-19
+        PhD Toolbox course - 2017-04-19
 
 
 
