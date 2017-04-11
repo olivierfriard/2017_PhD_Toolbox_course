@@ -1,5 +1,5 @@
-PhD Toolbox 2017
-################
+PhD Toolbox course 2017
+#######################
 
 AVANCED MODULE - Big data - 5 credits
 =====================================
