@@ -103,7 +103,7 @@ Linux
 
 Linux will be used for practice during this part of the course.
 
-You can also use macOS but some bash tools have some differences.
+You can also use macOS but some tools have some different behavior.
 
 If you absolutely want to use Windows you can install the `Linux Bash Shell on Windows 10 <https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10>`_
 
@@ -622,9 +622,12 @@ grep assignement
 shopping list
 --------------
 
-Go to the ``assignement_grep`` directory
+Go to the ``data/assignement_grep`` directory
 
 Create a file containing the shopping list: ingredients present in ``recipe.txt`` file that are not in ``in_house.txt`` file
+
+
+.. sort recipes.txt in_house.txt | uniq -d | grep -v -f - recipes.txt
 
 
 sed
@@ -659,14 +662,14 @@ Important: the -i option make transformations irreversible!
 sed assignement
 ===============
 
-Go to the assignement_homogeneity directory
+Go to the ``data/assignement_homogeneity`` directory
 
 
 check the homogeneity of animal names in the ``list.txt`` file and replace animal names when mistyped
 
 .. head list.txt
-
-
+   awk -F'_' '{print $1}' list.txt | sort | uniq
+   sed -i 's#XXX#YYY#g' list.txt
 
 
 
@@ -693,6 +696,11 @@ conversion of sound files from AIFF to WAV format
 sox is command line utility that can convert various formats of audio files
 `http://sox.sourceforge.net  <http://sox.sourceforge.net>`_
 
+
+
+
+for assignment
+==============
 
 
 for f in $(ls *DP3*.Pitch); do cp $f DP3; done
@@ -729,40 +737,50 @@ print number of fields of tab separated values file
     ls *.wav | awk -F"_" '{print $1}' | sort | uniq
 
 
+
+
 Assignements
 =============
 
 
-in assignement_display directory
---------------------------------
+1. Go to the ``data/assignement_display`` directory
 
 
-1. check if the ``parking_violation_year_2014.csv``  file is homogeneous. If not render it homogeneous by deleting the incorrect rows
+2. check if the ``parking_violation_year_2014.csv``  file is homogeneous. If not render it homogeneous by deleting the incorrect rows
 
-awk -F',' '{print NF}' parking_violation_year_2014.csv  | sort | uniq -c
-awk -F',' '{print NF}' parking_violation_year_2014.csv  | nl | awk '{if ($2==46) {print $1}}' > rows_to_delete
-cat rows_to_delete | while read r; do sed -i "$r"'d' p; done
-
-
-2. how many different cars have made a parking violation?
-
-awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq
-
-3. what is the car plate that made the greatest number of parking violations?
-
-awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq -c | sort -nr
+..  awk -F',' '{print NF}' parking_violation_year_2014.csv  | sort | uniq -c
+    awk -F',' '{print NF}' parking_violation_year_2014.csv  | nl | awk '{if ($2==46) {print $1}}' > rows_to_delete
+    cat rows_to_delete | while read r; do sed -i "$r"'d' p; done
 
 
-4. extract date column and convert it to ISO8601 date
-awk -F'/' '{for (i=3; i<=3; i++) {print $i}}' date.txt
+3. how many different cars have made a parking violation?
+
+.. awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq
+
+
+
+4. what is the car plate that made the greatest number of parking violations?
+
+.. awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq -c | sort -nr
+
+
+5. extract date column and convert it to ISO8601 date
+
+
+.. awk -F'/' '{for (i=3; i<=3; i++) {print $i}}' date.txt
+
+
 
 
 in assignement_many_files directory
 -----------------------------------
 
+
 1) check homogeneity of animal names in all files
 
+
 2) Check if all files are different
-sort 1md5sum | awk '{print $1}' | uniq -d | grep -f - 1md5sum
+
+.. sort 1md5sum | awk '{print $1}' | uniq -d | grep -f - 1md5sum
 
 

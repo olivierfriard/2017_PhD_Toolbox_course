@@ -10,11 +10,11 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 127 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 126 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 128 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 127 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 6 0 obj
@@ -51,7 +51,7 @@ endobj
 << /Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 34.34646 295.1378 0 ] /Rect [ 256.1265 235.3878 272.2465 247.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
-<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R ] /Contents 129 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R ] /Contents 128 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 18 0 obj
@@ -64,11 +64,11 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Unix_philosophy) >> /Border [ 0 0 0 ] /Rect [ 34.34646 67.3878 202.1765 79.3878 ] /Subtype /Link /Type /Annot >>
 endobj
 20 0 obj
-<< /Annots [ 19 0 R ] /Contents 130 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.af776386d27e972b6439ace85db6cae3 18 0 R >> >> /Rotate 0 
+<< /Annots [ 19 0 R ] /Contents 129 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.af776386d27e972b6439ace85db6cae3 18 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 21 0 obj
-<< /Contents 131 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 130 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 22 0 obj
@@ -84,11 +84,11 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10) >> /Border [ 0 0 0 ] /Rect [ 34.34646 91.77358 88.80646 103.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 25 0 obj
-<< /Annots [ 23 0 R 24 0 R ] /Contents 132 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.7d998273505683a5d1aaefe34b251a3b 22 0 R >> >> /Rotate 0 
+<< /Annots [ 23 0 R 24 0 R ] /Contents 131 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.7d998273505683a5d1aaefe34b251a3b 22 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 26 0 obj
-<< /Contents 133 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 132 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 27 0 obj
@@ -104,42 +104,42 @@ stream
 Gb"0H0`_7S#Qpam0<GuOjT>h1^eqfJzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzF;D*N6I#~>endstream
 endobj
 29 0 obj
-<< /Contents 134 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.c78e0ef2a9badbe11e0b43255590405a 27 0 R >> >> /Rotate 0 /Trans <<  >> 
+<< /Contents 133 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.c78e0ef2a9badbe11e0b43255590405a 27 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 30 0 obj
-<< /Contents 135 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 134 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 31 0 obj
 << /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 32 0 obj
-<< /Contents 136 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 135 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 33 0 obj
-<< /Contents 137 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 136 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 34 0 obj
-<< /Contents 138 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 137 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 35 0 obj
-<< /Contents 139 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 138 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 36 0 obj
-<< /Contents 140 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 139 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 37 0 obj
-<< /Contents 141 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 140 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 38 0 obj
-<< /Contents 142 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 141 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 39 0 obj
@@ -155,11 +155,11 @@ stream
 Gb"0N_$L)q$j/6Q^N9jO_%6n#"S]JQGlTE6gD.LY^&mpE$W-":zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!(B.m/Z(7I!fN:\c~>endstream
 endobj
 41 0 obj
-<< /Contents 143 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.180ff9a28fd976b93e04ac1f4b4f2b64 39 0 R >> >> /Rotate 0 /Trans <<  >> 
+<< /Contents 142 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.180ff9a28fd976b93e04ac1f4b4f2b64 39 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 42 0 obj
-<< /Contents 144 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 143 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 43 0 obj
@@ -169,298 +169,294 @@ stream
 Gb"/l0k_M/*f&:H>&[um(@K\PaLO)XW`48[W6Bj5D\c6L8/"Db$8#IM.Y<RaN\_r-:5\?G/d-qh=LL4V3"4CU[P09#!XIuP^7F0GnN8%A[>ALe/cS"f)82G`1U8m1s8P#rhTIZaN%r<h@uN.^(h8LZ`Y`3E0ub&?N%r<h@uN.^(h8LZ`Y`3E0ub&?N%r<h@uN.^R/'un?LI4JD/=$)DJo/o^%:i:$EpV8)N@3BB.HKq'XIGrkbpLo*=iViW$JP;_hSc#Vl-(\LCL3UnF5r,i^0^BrVi!.:Z@@pO,pp/Y4c%@:fc-<gG$XC!faR.Duu3UhVL^TW.W9cP*;E,SK3*SAI@++4<EMiQ*;(AT`tq&3n\^:*9*(YrI%]#C:/:JR7p_@].d-1%Q^b9$jZ1^`!80>X>eVm'N#!sY^h*,CuT:CaC$]X91GZgO\^4[e#3BQkq1WJD-Y3[p[>'adBQB@Zq*\Ajir`=l]$#)cPs;9a=3od"W[U_a>SQQ8GW[YO9;chN`oaZn:s2c=Ykl"hj^Fkgdo<@O97rr1EsJ/_bktrFG+;VX9:)9@?p0;&7g(bS@I?813;C^1GDBlEXe1<@2T"?QipJ)PkYhO.\qE#Df:[WXWt.t,l"?7iP(NF)C.4>mT,Fk1-.`NZ&XWlb*D!,2T%t;cU_p(OX\0a0D-dLGA=hrbN`b!RtXgW)'-->mI7lLNT9/@EI<.-iPib>CC.n_PKJa#W1Ul)E+7C\Z&XuGo/51doti;*b^c/!gV@&7WMbjOibdHlIXZa+e(?o3\p^dZrn/j)$b,*%MQ!Ln@b-[HNfm?42+S-C<7?XORfR(8>'o>&QpO&,'L]_MDh*=(PE[!3"*8DEF&pl>4i]TU:ArceQC,sbHY;a5gUDlWCbq'<],0]K4"f50XC>W+c,B0=c$dJj8rc8jMGPRASs0"UbYhP5ag$jUU6%CTaeQD;=@^K<N[gc#6BC>n0G^8[27E_S-ol`QX!5\IMAZg,7n6('c3YgLekpIt1_(!*p<?2Ygc\n1Vpf)7[r:0$rYCmYfXHl=j63Ec*$*iqXJ=jdmAM5aG')oONfmlm<CAA^hc[Q)=@^K<N[d@>EkeA2KQWM!lc9oO*@8`e1.GA9ag$kb&_9g"X<V5.Fd*m3a;A>+--&&%7T`1&Z&XbTekpIh,@cCLPT9#1(h"F2a#YuJaSGWlhkG"t]=57.*fotFbkCaR2eOd6b7n\`(JX?2GkpoAG_5)ClDiZXleu;2UZO6<9U=#;:mfgBKigjeZ&[&+J;Z6^b&B>i$raiG%tX4n1`BdM<hU<FGY=ac+q%7=M'c7/do9UZ?8cEE<,(3WG]JSU?r3GZC/nA+ag$lMVk?%,_al5?aeY%pD\k;s+Q_9^E=k9e[jNONm%n]oauY+c+Aj)3'n$k`-ojk2&t(k/p;<Xq]NEN>NLqkIG?+F)rI&!UVNA2M^NlT`HN!I2o=2Z<oCI4/p0nh=rUTA^>Y_]Ar:Eq?naB8GL'-[Nrql#bp&6`74BR<qkCt-Y#ari%3B@L'hduUjT+VUH($gZ@8@sXqWHGT)e>smtp[9.er:=Qn^$bW?IIl@t0+)\5Dt*q5@B7@*>(3#l7F.PiJ(eS7jON34bCBK]bO?SekBoEs)ts,P5*[BX+%NB'J+3^>?HjOr+*BW/KO%PoS\L.A5k\m!>0*Kn\[bg37p/"aTJe=a#i-pOeA)@@d<\`tNX/B$7m^UWhe;rR`uj>YLfj.6>]Q.VMB,b2mj0"!4WHM?=5c<4UVJ>%F`\Cq%0-,%qo9*00fO0$Hq[#<[C+O5c,dGkNe1mN3mqW]MTT)[X`_"jUt*jtITK$)N&:D/oDdFQ3Z[mqUJClR*$$%CP;mbj;Fc*Fe\j:G7i)sXNI:;=^'N<;)H3u&aKS3kPcPJR`:n3QbNK5."EgB4a4HN_ZWZ<$3pL'Jei7c5iJZMtWXW_ue_e+;CA"3EI>QE$_&p$\ZAagJ%De+nTZu"aQ3UgPgY9E3ME[&CPaj"CedrG=)7E]cT[5<^/Z0gN$>EX(MOU\Sbs%A6V"SO=^2:@>^^M5\_V4H"5%O'Afe\[2qhIEWX]>gDa?R1jS?$UAD39juj0=p'M_AL8clsLHk2n"kWfr0[PamCcqFR7I&k5d*F'ok+O]Xc+FL4`I7c]2Lid5;]=i4*)9l]0)Q=N%I@O*MPCc:smd!!q-pWN(83mu%%CL^j!1kWh0l?#)^/O#Ks2-'9OXJ=k+XJ<;i7c8haaYGn$isU(IQIHMliTRJ>chj2lB!E4>)?Eak%DXM$Yn/ZNaXPORLI3E?s4q42pS="/6FoZnVD+9MisI62Ug2ZSY`=lFZ]<OS'J_"(8,kS2Mmp6"7sl];Wup`:HrDrf=Q)`!ck4h)7fPWL:*&<Dp2piT%Qjc*brS/ph`ZA.Kg0C]e9:JaF94ZhHM%(1A<^_Pke`?j>M:TFkE1d,'jb]D2O?#*ZPJQlKkF9+'t\k\!9kP'ViHQ58Ncfo1kX#Zd-PodWP@gk9h&Cb]F&Y@^`eE_,_Vr[kO(cmnQNWY--P[WBG"]\8u+5*`)o4'BC74:3so>50([90b@PQhe>]40041_,<<*Wum-KB1KQY-RAq\D9D[Y[g<PMaE=LG*?*rO5c7?@hif\KQYko4fF+:/C=D\@V_,0fLZ,1>a)Ms`p3T9UTK?t0O8jnAEA<7:/Wj32BrR=nAY's/DUI-ZO)@JKV+Y_=W((#s""q9<RfFeZfN?5QG2#-=SWGhcto(m8C7nBHRjjcIg<_"RKqopNo@>gZgIF6DOVX/#I+4m@b3e<l;'d"Q@':31M9;qfX=&sPMRMcsCaq8nEB14IDekHKpAhW@@3eB&#9`*TW;+hL:"UO$i;>=TFUcZKq.HMd!sYhW8kWhZYj(p67Z__<&rbrTStRp>a:$Q;lEU:)9a7R<0p<&Z`p6[*b")0I@64#f4X@tr'[g2NMW9<]CNOK$l0UFm[Z6I;l@fIUGbhnS#]CfWtj8+DL^l*iSBGOOgUQP:1i/%A=\-Z7:n^]SDs79U`<V)hFIiAAWa6K]l`-uRVug^9/G0%/*BS:BLSRqriA*C`jm,Cb.I&ZNAYJ^@dY#R;Y:P.dh1/Y&?$eF04ujdh_9>5;rrMrK!GlTAL"Z+K>AV2DcC3mn2TFfO@!Id4A:J92L7gMh%MO3fG=QUoK/]R;=PTh^hp,XQsX!Bbu@'mFBI4EM8o4u]OE%S'#(EC4gn(Ob%U^[CjH+i.-r%6>]3Li]!NG3e?7-iD_.!M>&/W*lWAVP>*MTuuqbO3JB:`Il'I>V&97X4=4f.,_YGmAM5kl:;N7&!%e1o$^D"MI7p1THgTm/o%fXQFY7$dX[`O)J]<"#8rLjE>YIk#*jK(M,XfX)NVpu]^889g4UDdPc/1WrZ%O"iN7jLX5MG[`&aoSrcJV=+t<-.[@/Q"keB.NW)H3RKS4$dg9QaEfn4a+*(>&YQLG3L7;h0hH5Kd6O4p`oN4BjePg`J]KcD,`YR50N]Ab5u>L$$@CpCD5_)eTPa&+hgo:%[mkOM;0gtHY-\Di7\EPdO=THi=QP;);g]U%qB3=?<'SVXTL/fQ"/][uHadP8._ZRRd[AU+j+mOD$'d#)sF&Yi*V=/t,Zjs-g'7qOC)OYO^68re%)N3J>*@iZF3XJ=iY8&bi#-ook@0u>tDNcelkY`=lV*>p*'UZ>NI`X(lY3S'<I_E(<7b&qfPH9-j!O2mq%qBD6l_uC<BVpjUD(_>o;,b/rS,BK<\=@^J9\W37DH.'d3$5JPJ1oD:qlZel5'qu9W)Yp%s]j>VmCTGqK/3cj]Smbn"=de$'Fd/CGF;0e9VoO[5(jAF/)lu._$DY,0B'DbE_^n/DOu0WclR4bnl_lKG'\Us\c;(_!`!j60_[m@t]HnW0V(iqU<t@'%^m<)Q_E%@3(56'CW7>Vt5+9J&ehW#R6;AbsO[3Ko:q43PXmor=XRX51Pa;XA1@'U9Paj4F`8uB:K1=2h=0[^X&;;@#S=G[%@1j!A#n+UP1^+n6#%WRHD[SY$#j$TdUIc$>6fD`%WC=-@CY3^RMF2.f);.oo/IZ\WR.1!C:(H6KZG2l!fJ@^flR4bDf9+(-_FRr&NI6!?cshX,GcQR7S>5"4a]]OfDNTsX/_!-6@@0+cg0$B?l"JIH><$J0@mb%2'4GWXW\A<j2B-(cH8krTUhLW)F7`HR-Jba.ekpIf9@bpj>o^Fh8@k2;do5KZ9N3rP8'$6h-IbCb'qBe>(?qb/*DsA-Jpae6.+`hRn_pce3'IcY)WRt4l\]hLS18UpriA`1_G,3u200Y/OCK.KOY2>Tr2u'Y#N6@\RPIAb[+juX[\0C7WX@U7NoG,'qt@U1*@7U]*D$X+7#;Wg+m2bP1"S;7^+Sp%+<qn@[QAcmj)gO1m]<[?R-hAFcb,[jDYD17nIXoSC1ua-1D.eKk?R&8.sJ%D`(j5AekpHgXs<iUs&nAt?[3MY@Y7]Vck.>G2OaJn"A4kuc:um$h/::72,@9K1pE'F][cIA$R#`'h*&n>F/1@d$1G-q:.*cOpM`aUdCNd--"l=#,*7U.No<SXOpNpmF+L[!.1AQ727l\ZHg'*RrMWl7CeEIo76Igqb9<oqhg"SIo#[hOGaPW[S/%;ccHj"m!32`S'Atu5H<A-6;L-Nni0cX2NfrFW=_!,-PT9#1(h"F2a#YtF=@^K<N[dAdPg4>JT8QhZlR4dE;+8Dd-hZDSkC:/+=@^K<N[gc#@V]b[fkaE];a9qu40ag/';!W-X/2nm)"fV&#OblNFd*kgnC'/m[DNXk=["#7DaTSVj5XY+L/*8D/.</SjZTG-4VnnNEQ@=cA.mM3AJj#dGSUJi+e@k@]AZUi%0I5<p%7l5No`a*;;<%Gmnt#$6hQ*TUg-\H@Ep[s.)i(iol*s*o440]8rDq3GH()?d(AOS*JmOh_eH_ijXn;08rf[AMK!ZZkHKu0j0k_?E8/d2_`CDMF]8sXLjWk&:1,(ga#^4+M9,XUmL[rHEi^KqKQWM!lc9oO*@8`e1.GA9ag$kb&Tc"_1Nd.I)'^u\W(DefA;p<QiPU#+'R,9d`Y`3E0ub&?N%r<h@uN.^(h8LZ`Y`3E0ub&?N%r<h@uN.^(h8LZ`Y`3E0ub&?N%r<h@uN.^(h:c.n3?N7_KP~>endstream
 endobj
 44 0 obj
-<< /Contents 145 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.8b089f2ebda80d5e54b385bd0fcbed01 43 0 R >> >> /Rotate 0 /Trans <<  >> 
+<< /Contents 144 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.8b089f2ebda80d5e54b385bd0fcbed01 43 0 R >> >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 45 0 obj
-<< /Contents 146 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 145 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 46 0 obj
-<< /Contents 147 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 146 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 47 0 obj
-<< /Contents 148 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 147 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 48 0 obj
-<< /Contents 149 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 148 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 49 0 obj
-<< /Contents 150 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 149 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 50 0 obj
-<< /Contents 151 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 150 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 51 0 obj
-<< /Contents 152 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 151 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 52 0 obj
-<< /Contents 153 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 152 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 53 0 obj
-<< /Contents 154 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 153 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 54 0 obj
-<< /Contents 155 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 154 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 55 0 obj
-<< /Contents 156 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 155 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 56 0 obj
-<< /Contents 157 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 156 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 57 0 obj
-<< /Contents 158 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 157 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 58 0 obj
-<< /Contents 159 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 158 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 59 0 obj
-<< /Contents 160 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 159 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 60 0 obj
-<< /Contents 161 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 160 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 61 0 obj
-<< /Contents 162 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 161 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 62 0 obj
-<< /Contents 163 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 162 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 63 0 obj
-<< /Contents 164 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 163 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 64 0 obj
-<< /Contents 165 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 164 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 65 0 obj
-<< /Contents 166 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 165 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 66 0 obj
 << /A << /S /URI /Type /Action /URI (http://sox.sourceforge.net) >> /Border [ 0 0 0 ] /Rect [ 34.34646 112.9878 147.1865 124.9878 ] /Subtype /Link /Type /Annot >>
 endobj
 67 0 obj
-<< /Annots [ 66 0 R ] /Contents 167 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 66 0 R ] /Contents 166 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 68 0 obj
-<< /Contents 168 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 167 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 69 0 obj
-<< /Contents 169 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 168 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 70 0 obj
-<< /Contents 170 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 169 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 125 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 71 0 obj
-<< /Contents 171 0 R /MediaBox [ 0 0 453.5433 340.1575 ] /Parent 126 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Outlines 73 0 R /PageLabels 170 0 R /PageMode /UseNone /Pages 125 0 R /Type /Catalog >>
 endobj
 72 0 obj
-<< /Outlines 74 0 R /PageLabels 172 0 R /PageMode /UseNone /Pages 126 0 R /Type /Catalog >>
-endobj
-73 0 obj
-<< /Author () /CreationDate (D:20170411164600-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20170411170540-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Big data wrangling, manipulation and homogenization) >>
 endobj
-74 0 obj
-<< /Count 62 /First 75 0 R /Last 123 0 R /Type /Outlines >>
+73 0 obj
+<< /Count 62 /First 74 0 R /Last 123 0 R /Type /Outlines >>
 endobj
-75 0 obj
-<< /Count 2 /Dest [ 5 0 R /XYZ 34.34646 291.6378 0 ] /First 76 0 R /Last 77 0 R /Next 78 0 R /Parent 74 0 R 
+74 0 obj
+<< /Count 2 /Dest [ 5 0 R /XYZ 34.34646 291.6378 0 ] /First 75 0 R /Last 76 0 R /Next 77 0 R /Parent 73 0 R 
   /Title (Big data) >>
 endobj
+75 0 obj
+<< /Dest [ 5 0 R /XYZ 34.34646 258.6378 0 ] /Next 76 0 R /Parent 74 0 R /Title (large files) >>
+endobj
 76 0 obj
-<< /Dest [ 5 0 R /XYZ 34.34646 258.6378 0 ] /Next 77 0 R /Parent 75 0 R /Title (large files) >>
+<< /Dest [ 5 0 R /XYZ 34.34646 186.6378 0 ] /Parent 74 0 R /Prev 75 0 R /Title (great number of files) >>
 endobj
 77 0 obj
-<< /Dest [ 5 0 R /XYZ 34.34646 186.6378 0 ] /Parent 75 0 R /Prev 76 0 R /Title (great number of files) >>
+<< /Dest [ 17 0 R /XYZ 34.34646 291.6378 0 ] /Next 78 0 R /Parent 73 0 R /Prev 74 0 R /Title (Command-line tools) >>
 endobj
 78 0 obj
-<< /Dest [ 17 0 R /XYZ 34.34646 291.6378 0 ] /Next 79 0 R /Parent 74 0 R /Prev 75 0 R /Title (Command-line tools) >>
+<< /Count 1 /Dest [ 20 0 R /XYZ 34.34646 291.6378 0 ] /First 79 0 R /Last 79 0 R /Next 80 0 R /Parent 73 0 R 
+  /Prev 77 0 R /Title (Unix philosophy) >>
 endobj
 79 0 obj
-<< /Count 1 /Dest [ 20 0 R /XYZ 34.34646 291.6378 0 ] /First 80 0 R /Last 80 0 R /Next 81 0 R /Parent 74 0 R 
-  /Prev 78 0 R /Title (Unix philosophy) >>
+<< /Dest [ 20 0 R /XYZ 34.34646 120.6378 0 ] /Parent 78 0 R /Title (The command-line tools that we will use respect this philosophy) >>
 endobj
 80 0 obj
-<< /Dest [ 20 0 R /XYZ 34.34646 120.6378 0 ] /Parent 79 0 R /Title (The command-line tools that we will use respect this philosophy) >>
+<< /Dest [ 21 0 R /XYZ 34.34646 291.6378 0 ] /Next 81 0 R /Parent 73 0 R /Prev 78 0 R /Title (Linux) >>
 endobj
 81 0 obj
-<< /Dest [ 21 0 R /XYZ 34.34646 291.6378 0 ] /Next 82 0 R /Parent 74 0 R /Prev 79 0 R /Title (Linux) >>
+<< /Dest [ 25 0 R /XYZ 34.34646 291.6378 0 ] /Next 82 0 R /Parent 73 0 R /Prev 80 0 R /Title (Linux) >>
 endobj
 82 0 obj
-<< /Dest [ 25 0 R /XYZ 34.34646 291.6378 0 ] /Next 83 0 R /Parent 74 0 R /Prev 81 0 R /Title (Linux) >>
+<< /Dest [ 26 0 R /XYZ 34.34646 291.6378 0 ] /Next 83 0 R /Parent 73 0 R /Prev 81 0 R /Title (The shell) >>
 endobj
 83 0 obj
-<< /Dest [ 26 0 R /XYZ 34.34646 291.6378 0 ] /Next 84 0 R /Parent 74 0 R /Prev 82 0 R /Title (The shell) >>
+<< /Dest [ 29 0 R /XYZ 34.34646 291.6378 0 ] /Next 84 0 R /Parent 73 0 R /Prev 82 0 R /Title (Terminal) >>
 endobj
 84 0 obj
-<< /Dest [ 29 0 R /XYZ 34.34646 291.6378 0 ] /Next 85 0 R /Parent 74 0 R /Prev 83 0 R /Title (Terminal) >>
+<< /Dest [ 32 0 R /XYZ 34.34646 291.6378 0 ] /Next 85 0 R /Parent 73 0 R /Prev 83 0 R /Title (The shell) >>
 endobj
 85 0 obj
-<< /Dest [ 32 0 R /XYZ 34.34646 291.6378 0 ] /Next 86 0 R /Parent 74 0 R /Prev 84 0 R /Title (The shell) >>
+<< /Dest [ 34 0 R /XYZ 34.34646 291.6378 0 ] /Next 86 0 R /Parent 73 0 R /Prev 84 0 R /Title (Data) >>
 endobj
 86 0 obj
-<< /Dest [ 34 0 R /XYZ 34.34646 291.6378 0 ] /Next 87 0 R /Parent 74 0 R /Prev 85 0 R /Title (Data) >>
+<< /Dest [ 35 0 R /XYZ 34.34646 291.6378 0 ] /Next 87 0 R /Parent 73 0 R /Prev 85 0 R /Title (Text encoding) >>
 endobj
 87 0 obj
-<< /Dest [ 35 0 R /XYZ 34.34646 291.6378 0 ] /Next 88 0 R /Parent 74 0 R /Prev 86 0 R /Title (Text encoding) >>
+<< /Dest [ 36 0 R /XYZ 34.34646 291.6378 0 ] /Next 88 0 R /Parent 73 0 R /Prev 86 0 R /Title (End-of-line) >>
 endobj
 88 0 obj
-<< /Dest [ 36 0 R /XYZ 34.34646 291.6378 0 ] /Next 89 0 R /Parent 74 0 R /Prev 87 0 R /Title (End-of-line) >>
+<< /Count 2 /Dest [ 37 0 R /XYZ 34.34646 291.6378 0 ] /First 89 0 R /Last 90 0 R /Next 91 0 R /Parent 73 0 R 
+  /Prev 87 0 R /Title (File name) >>
 endobj
 89 0 obj
-<< /Count 2 /Dest [ 37 0 R /XYZ 34.34646 291.6378 0 ] /First 90 0 R /Last 91 0 R /Next 92 0 R /Parent 74 0 R 
-  /Prev 88 0 R /Title (File name) >>
+<< /Dest [ 37 0 R /XYZ 34.34646 258.6378 0 ] /Next 90 0 R /Parent 88 0 R /Title (Spaces) >>
 endobj
 90 0 obj
-<< /Dest [ 37 0 R /XYZ 34.34646 258.6378 0 ] /Next 91 0 R /Parent 89 0 R /Title (Spaces) >>
+<< /Dest [ 37 0 R /XYZ 34.34646 149.4378 0 ] /Parent 88 0 R /Prev 89 0 R /Title (Case sensitivity) >>
 endobj
 91 0 obj
-<< /Dest [ 37 0 R /XYZ 34.34646 149.4378 0 ] /Parent 89 0 R /Prev 90 0 R /Title (Case sensitivity) >>
+<< /Dest [ 38 0 R /XYZ 34.34646 291.6378 0 ] /Next 92 0 R /Parent 73 0 R /Prev 88 0 R /Title (Text editors) >>
 endobj
 92 0 obj
-<< /Dest [ 38 0 R /XYZ 34.34646 291.6378 0 ] /Next 93 0 R /Parent 74 0 R /Prev 89 0 R /Title (Text editors) >>
+<< /Dest [ 41 0 R /XYZ 34.34646 291.6378 0 ] /Next 93 0 R /Parent 73 0 R /Prev 91 0 R /Title (Text editor screenshot) >>
 endobj
 93 0 obj
-<< /Dest [ 41 0 R /XYZ 34.34646 291.6378 0 ] /Next 94 0 R /Parent 74 0 R /Prev 92 0 R /Title (Text editor screenshot) >>
+<< /Count 1 /Dest [ 44 0 R /XYZ 34.34646 291.6378 0 ] /First 94 0 R /Last 94 0 R /Next 95 0 R /Parent 73 0 R 
+  /Prev 92 0 R /Title (Anatomy of a command-line tool) >>
 endobj
 94 0 obj
-<< /Count 1 /Dest [ 44 0 R /XYZ 34.34646 291.6378 0 ] /First 95 0 R /Last 95 0 R /Next 96 0 R /Parent 74 0 R 
-  /Prev 93 0 R /Title (Anatomy of a command-line tool) >>
+<< /Dest [ 44 0 R /XYZ 34.34646 258.6378 0 ] /Parent 93 0 R /Title (Standard streams) >>
 endobj
 95 0 obj
-<< /Dest [ 44 0 R /XYZ 34.34646 258.6378 0 ] /Parent 94 0 R /Title (Standard streams) >>
+<< /Count 1 /Dest [ 45 0 R /XYZ 34.34646 291.6378 0 ] /First 96 0 R /Last 96 0 R /Next 97 0 R /Parent 73 0 R 
+  /Prev 93 0 R /Title (All about redirection) >>
 endobj
 96 0 obj
-<< /Count 1 /Dest [ 45 0 R /XYZ 34.34646 291.6378 0 ] /First 97 0 R /Last 97 0 R /Next 98 0 R /Parent 74 0 R 
-  /Prev 94 0 R /Title (All about redirection) >>
+<< /Dest [ 45 0 R /XYZ 34.34646 258.6378 0 ] /Parent 95 0 R /Title (stdout) >>
 endobj
 97 0 obj
-<< /Dest [ 45 0 R /XYZ 34.34646 258.6378 0 ] /Parent 96 0 R /Title (stdout) >>
+<< /Count 1 /Dest [ 46 0 R /XYZ 34.34646 291.6378 0 ] /First 98 0 R /Last 98 0 R /Next 99 0 R /Parent 73 0 R 
+  /Prev 95 0 R /Title (All about redirection) >>
 endobj
 98 0 obj
-<< /Count 1 /Dest [ 46 0 R /XYZ 34.34646 291.6378 0 ] /First 99 0 R /Last 99 0 R /Next 100 0 R /Parent 74 0 R 
-  /Prev 96 0 R /Title (All about redirection) >>
+<< /Dest [ 46 0 R /XYZ 34.34646 258.6378 0 ] /Parent 97 0 R /Title (stderr) >>
 endobj
 99 0 obj
-<< /Dest [ 46 0 R /XYZ 34.34646 258.6378 0 ] /Parent 98 0 R /Title (stderr) >>
+<< /Count 1 /Dest [ 47 0 R /XYZ 34.34646 291.6378 0 ] /First 100 0 R /Last 100 0 R /Next 101 0 R /Parent 73 0 R 
+  /Prev 97 0 R /Title (All about redirection) >>
 endobj
 100 0 obj
-<< /Count 1 /Dest [ 47 0 R /XYZ 34.34646 291.6378 0 ] /First 101 0 R /Last 101 0 R /Next 102 0 R /Parent 74 0 R 
-  /Prev 98 0 R /Title (All about redirection) >>
+<< /Dest [ 47 0 R /XYZ 34.34646 258.6378 0 ] /Parent 99 0 R /Title (combination of redirections) >>
 endobj
 101 0 obj
-<< /Dest [ 47 0 R /XYZ 34.34646 258.6378 0 ] /Parent 100 0 R /Title (combination of redirections) >>
+<< /Dest [ 48 0 R /XYZ 34.34646 291.6378 0 ] /Next 102 0 R /Parent 73 0 R /Prev 99 0 R /Title (input) >>
 endobj
 102 0 obj
-<< /Dest [ 48 0 R /XYZ 34.34646 291.6378 0 ] /Next 103 0 R /Parent 74 0 R /Prev 100 0 R /Title (input) >>
+<< /Dest [ 49 0 R /XYZ 34.34646 291.6378 0 ] /Next 103 0 R /Parent 73 0 R /Prev 101 0 R /Title (Reproducible research) >>
 endobj
 103 0 obj
-<< /Dest [ 49 0 R /XYZ 34.34646 291.6378 0 ] /Next 104 0 R /Parent 74 0 R /Prev 102 0 R /Title (Reproducible research) >>
+<< /Dest [ 50 0 R /XYZ 34.34646 291.6378 0 ] /Next 104 0 R /Parent 73 0 R /Prev 102 0 R /Title (pipes) >>
 endobj
 104 0 obj
-<< /Dest [ 50 0 R /XYZ 34.34646 291.6378 0 ] /Next 105 0 R /Parent 74 0 R /Prev 103 0 R /Title (pipes) >>
+<< /Dest [ 51 0 R /XYZ 34.34646 291.6378 0 ] /Next 105 0 R /Parent 73 0 R /Prev 103 0 R /Title (Using more CPU/Threads) >>
 endobj
 105 0 obj
-<< /Dest [ 51 0 R /XYZ 34.34646 291.6378 0 ] /Next 106 0 R /Parent 74 0 R /Prev 104 0 R /Title (Using more CPU/Threads) >>
+<< /Count 1 /Dest [ 52 0 R /XYZ 34.34646 291.6378 0 ] /First 106 0 R /Last 106 0 R /Next 107 0 R /Parent 73 0 R 
+  /Prev 104 0 R /Title (ls) >>
 endobj
 106 0 obj
-<< /Count 1 /Dest [ 52 0 R /XYZ 34.34646 291.6378 0 ] /First 107 0 R /Last 107 0 R /Next 108 0 R /Parent 74 0 R 
-  /Prev 105 0 R /Title (ls) >>
+<< /Dest [ 52 0 R /XYZ 34.34646 258.6378 0 ] /Parent 105 0 R /Title (LiSt) >>
 endobj
 107 0 obj
-<< /Dest [ 52 0 R /XYZ 34.34646 258.6378 0 ] /Parent 106 0 R /Title (LiSt) >>
+<< /Dest [ 53 0 R /XYZ 34.34646 291.6378 0 ] /Next 108 0 R /Parent 73 0 R /Prev 105 0 R /Title (cat) >>
 endobj
 108 0 obj
-<< /Dest [ 53 0 R /XYZ 34.34646 291.6378 0 ] /Next 109 0 R /Parent 74 0 R /Prev 106 0 R /Title (cat) >>
+<< /Dest [ 54 0 R /XYZ 34.34646 291.6378 0 ] /Next 109 0 R /Parent 73 0 R /Prev 107 0 R /Title (wc) >>
 endobj
 109 0 obj
-<< /Dest [ 54 0 R /XYZ 34.34646 291.6378 0 ] /Next 110 0 R /Parent 74 0 R /Prev 108 0 R /Title (wc) >>
+<< /Dest [ 55 0 R /XYZ 34.34646 291.6378 0 ] /Next 110 0 R /Parent 73 0 R /Prev 108 0 R /Title (head) >>
 endobj
 110 0 obj
-<< /Dest [ 55 0 R /XYZ 34.34646 291.6378 0 ] /Next 111 0 R /Parent 74 0 R /Prev 109 0 R /Title (head) >>
+<< /Dest [ 56 0 R /XYZ 34.34646 291.6378 0 ] /Next 111 0 R /Parent 73 0 R /Prev 109 0 R /Title (tail) >>
 endobj
 111 0 obj
-<< /Dest [ 56 0 R /XYZ 34.34646 291.6378 0 ] /Next 112 0 R /Parent 74 0 R /Prev 110 0 R /Title (tail) >>
+<< /Dest [ 57 0 R /XYZ 34.34646 291.6378 0 ] /Next 112 0 R /Parent 73 0 R /Prev 110 0 R /Title (nl) >>
 endobj
 112 0 obj
-<< /Dest [ 57 0 R /XYZ 34.34646 291.6378 0 ] /Next 113 0 R /Parent 74 0 R /Prev 111 0 R /Title (nl) >>
+<< /Dest [ 59 0 R /XYZ 34.34646 291.6378 0 ] /Next 113 0 R /Parent 73 0 R /Prev 111 0 R /Title (sort) >>
 endobj
 113 0 obj
-<< /Dest [ 59 0 R /XYZ 34.34646 291.6378 0 ] /Next 114 0 R /Parent 74 0 R /Prev 112 0 R /Title (sort) >>
+<< /Dest [ 60 0 R /XYZ 34.34646 291.6378 0 ] /Next 114 0 R /Parent 73 0 R /Prev 112 0 R /Title (uniq) >>
 endobj
 114 0 obj
-<< /Dest [ 60 0 R /XYZ 34.34646 291.6378 0 ] /Next 115 0 R /Parent 74 0 R /Prev 113 0 R /Title (uniq) >>
+<< /Dest [ 61 0 R /XYZ 34.34646 291.6378 0 ] /Next 115 0 R /Parent 73 0 R /Prev 113 0 R /Title (grep) >>
 endobj
 115 0 obj
-<< /Dest [ 61 0 R /XYZ 34.34646 291.6378 0 ] /Next 116 0 R /Parent 74 0 R /Prev 114 0 R /Title (grep) >>
+<< /Count 1 /Dest [ 63 0 R /XYZ 34.34646 291.6378 0 ] /First 116 0 R /Last 116 0 R /Next 117 0 R /Parent 73 0 R 
+  /Prev 114 0 R /Title (grep assignement) >>
 endobj
 116 0 obj
-<< /Count 1 /Dest [ 63 0 R /XYZ 34.34646 291.6378 0 ] /First 117 0 R /Last 117 0 R /Next 118 0 R /Parent 74 0 R 
-  /Prev 115 0 R /Title (grep assignement) >>
+<< /Dest [ 63 0 R /XYZ 34.34646 258.6378 0 ] /Parent 115 0 R /Title (shopping list) >>
 endobj
 117 0 obj
-<< /Dest [ 63 0 R /XYZ 34.34646 258.6378 0 ] /Parent 116 0 R /Title (shopping list) >>
+<< /Dest [ 64 0 R /XYZ 34.34646 291.6378 0 ] /Next 118 0 R /Parent 73 0 R /Prev 115 0 R /Title (sed) >>
 endobj
 118 0 obj
-<< /Dest [ 64 0 R /XYZ 34.34646 291.6378 0 ] /Next 119 0 R /Parent 74 0 R /Prev 116 0 R /Title (sed) >>
+<< /Dest [ 65 0 R /XYZ 34.34646 291.6378 0 ] /Next 119 0 R /Parent 73 0 R /Prev 117 0 R /Title (sed assignement) >>
 endobj
 119 0 obj
-<< /Dest [ 65 0 R /XYZ 34.34646 291.6378 0 ] /Next 120 0 R /Parent 74 0 R /Prev 118 0 R /Title (sed assignement) >>
+<< /Count 1 /Dest [ 67 0 R /XYZ 34.34646 291.6378 0 ] /First 120 0 R /Last 120 0 R /Next 121 0 R /Parent 73 0 R 
+  /Prev 118 0 R /Title (for) >>
 endobj
 120 0 obj
-<< /Count 1 /Dest [ 67 0 R /XYZ 34.34646 291.6378 0 ] /First 121 0 R /Last 121 0 R /Next 122 0 R /Parent 74 0 R 
-  /Prev 119 0 R /Title (for) >>
+<< /Dest [ 67 0 R /XYZ 34.34646 209.4378 0 ] /Parent 119 0 R /Title (example) >>
 endobj
 121 0 obj
-<< /Dest [ 67 0 R /XYZ 34.34646 209.4378 0 ] /Parent 120 0 R /Title (example) >>
+<< /Dest [ 68 0 R /XYZ 34.34646 291.6378 0 ] /Next 122 0 R /Parent 73 0 R /Prev 119 0 R /Title (for assignment) >>
 endobj
 122 0 obj
-<< /Dest [ 69 0 R /XYZ 34.34646 291.6378 0 ] /Next 123 0 R /Parent 74 0 R /Prev 120 0 R /Title (awk) >>
+<< /Dest [ 69 0 R /XYZ 34.34646 291.6378 0 ] /Next 123 0 R /Parent 73 0 R /Prev 121 0 R /Title (awk) >>
 endobj
 123 0 obj
-<< /Count 2 /Dest [ 70 0 R /XYZ 34.34646 291.6378 0 ] /First 124 0 R /Last 125 0 R /Parent 74 0 R /Prev 122 0 R 
+<< /Count 1 /Dest [ 70 0 R /XYZ 34.34646 291.6378 0 ] /First 124 0 R /Last 124 0 R /Parent 73 0 R /Prev 122 0 R 
   /Title (Assignements) >>
 endobj
 124 0 obj
-<< /Dest [ 70 0 R /XYZ 34.34646 258.6378 0 ] /Next 125 0 R /Parent 123 0 R /Title (in assignement_display directory) >>
+<< /Dest [ 70 0 R /XYZ 34.34646 150.6378 0 ] /Parent 123 0 R /Title (in assignement_many_files directory) >>
 endobj
 125 0 obj
-<< /Dest [ 71 0 R /XYZ 34.34646 291.6378 0 ] /Parent 123 0 R /Prev 124 0 R /Title (in assignement_many_files directory) >>
-endobj
-126 0 obj
-<< /Count 45 /Kids [ 4 0 R 5 0 R 17 0 R 20 0 R 21 0 R 25 0 R 26 0 R 29 0 R 30 0 R 32 0 R 
+<< /Count 44 /Kids [ 4 0 R 5 0 R 17 0 R 20 0 R 21 0 R 25 0 R 26 0 R 29 0 R 30 0 R 32 0 R 
   33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 41 0 R 42 0 R 44 0 R 45 0 R 
   46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 
   56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 
-  67 0 R 68 0 R 69 0 R 70 0 R 71 0 R ] /Type /Pages >>
+  67 0 R 68 0 R 69 0 R 70 0 R ] /Type /Pages >>
 endobj
-127 0 obj
+126 0 obj
 << /Length 593 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -490,7 +486,7 @@ Q
  
 endstream
 endobj
-128 0 obj
+127 0 obj
 << /Length 1924 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -615,7 +611,7 @@ Q
  
 endstream
 endobj
-129 0 obj
+128 0 obj
 << /Length 1174 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -657,7 +653,7 @@ Q
  
 endstream
 endobj
-130 0 obj
+129 0 obj
 << /Length 1927 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -776,7 +772,7 @@ Q
  
 endstream
 endobj
-131 0 obj
+130 0 obj
 << /Length 984 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -819,8 +815,8 @@ Q
  
 endstream
 endobj
-132 0 obj
-<< /Length 1016 >>
+131 0 obj
+<< /Length 1018 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -847,7 +843,7 @@ q
 1 0 0 1 34.34646 121.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can also use macOS but some bash tools have some differences.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can also use macOS but some tools have some different behavior.) Tj T* ET
 Q
 Q
 q
@@ -868,7 +864,7 @@ Q
  
 endstream
 endobj
-133 0 obj
+132 0 obj
 << /Length 931 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -910,7 +906,7 @@ Q
  
 endstream
 endobj
-134 0 obj
+133 0 obj
 << /Length 858 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -949,7 +945,7 @@ Q
  
 endstream
 endobj
-135 0 obj
+134 0 obj
 << /Length 738 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -978,7 +974,7 @@ Q
  
 endstream
 endobj
-136 0 obj
+135 0 obj
 << /Length 2094 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1088,7 +1084,7 @@ Q
  
 endstream
 endobj
-137 0 obj
+136 0 obj
 << /Length 640 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1135,7 +1131,7 @@ Q
  
 endstream
 endobj
-138 0 obj
+137 0 obj
 << /Length 912 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1177,7 +1173,7 @@ Q
  
 endstream
 endobj
-139 0 obj
+138 0 obj
 << /Length 888 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1220,7 +1216,7 @@ Q
  
 endstream
 endobj
-140 0 obj
+139 0 obj
 << /Length 1968 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1341,7 +1337,7 @@ Q
  
 endstream
 endobj
-141 0 obj
+140 0 obj
 << /Length 2288 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1484,7 +1480,7 @@ Q
  
 endstream
 endobj
-142 0 obj
+141 0 obj
 << /Length 1788 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1598,7 +1594,7 @@ Q
  
 endstream
 endobj
-143 0 obj
+142 0 obj
 << /Length 439 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1624,7 +1620,7 @@ Q
  
 endstream
 endobj
-144 0 obj
+143 0 obj
 << /Length 465 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1647,7 +1643,7 @@ Q
  
 endstream
 endobj
-145 0 obj
+144 0 obj
 << /Length 597 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1682,7 +1678,7 @@ Q
  
 endstream
 endobj
-146 0 obj
+145 0 obj
 << /Length 2244 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1802,7 +1798,7 @@ Q
  
 endstream
 endobj
-147 0 obj
+146 0 obj
 << /Length 2143 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1923,7 +1919,7 @@ Q
  
 endstream
 endobj
-148 0 obj
+147 0 obj
 << /Length 1641 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2033,7 +2029,7 @@ Q
  
 endstream
 endobj
-149 0 obj
+148 0 obj
 << /Length 993 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2097,7 +2093,7 @@ Q
  
 endstream
 endobj
-150 0 obj
+149 0 obj
 << /Length 1715 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2186,7 +2182,7 @@ Q
  
 endstream
 endobj
-151 0 obj
+150 0 obj
 << /Length 1185 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2256,7 +2252,7 @@ Q
  
 endstream
 endobj
-152 0 obj
+151 0 obj
 << /Length 362 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2278,7 +2274,7 @@ Q
  
 endstream
 endobj
-153 0 obj
+152 0 obj
 << /Length 1039 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2348,7 +2344,7 @@ Q
  
 endstream
 endobj
-154 0 obj
+153 0 obj
 << /Length 1030 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2410,7 +2406,7 @@ Q
  
 endstream
 endobj
-155 0 obj
+154 0 obj
 << /Length 1518 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2515,7 +2511,7 @@ Q
  
 endstream
 endobj
-156 0 obj
+155 0 obj
 << /Length 1507 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2620,7 +2616,7 @@ Q
  
 endstream
 endobj
-157 0 obj
+156 0 obj
 << /Length 2353 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2781,7 +2777,7 @@ Q
  
 endstream
 endobj
-158 0 obj
+157 0 obj
 << /Length 1359 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2868,7 +2864,7 @@ Q
  
 endstream
 endobj
-159 0 obj
+158 0 obj
 << /Length 516 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2905,7 +2901,7 @@ Q
  
 endstream
 endobj
-160 0 obj
+159 0 obj
 << /Length 3155 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3136,7 +3132,7 @@ Q
  
 endstream
 endobj
-161 0 obj
+160 0 obj
 << /Length 1088 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3191,7 +3187,7 @@ Q
  
 endstream
 endobj
-162 0 obj
+161 0 obj
 << /Length 3045 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3431,7 +3427,7 @@ Q
  
 endstream
 endobj
-163 0 obj
+162 0 obj
 << /Length 1219 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3526,8 +3522,8 @@ Q
  
 endstream
 endobj
-164 0 obj
-<< /Length 990 >>
+163 0 obj
+<< /Length 995 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3545,7 +3541,7 @@ Q
 q
 1 0 0 1 34.34646 222.6378 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Go to the ) Tj /F4 10 Tf 0 0 0 rg (assignement_grep ) Tj /F1 10 Tf 0 0 0 rg (directory) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Go to the ) Tj /F4 10 Tf 0 0 0 rg (data/assignement_grep ) Tj /F1 10 Tf 0 0 0 rg (directory) Tj T* ET
 Q
 Q
 q
@@ -3566,7 +3562,7 @@ Q
  
 endstream
 endobj
-165 0 obj
+164 0 obj
 << /Length 2485 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3725,8 +3721,8 @@ Q
  
 endstream
 endobj
-166 0 obj
-<< /Length 768 >>
+165 0 obj
+<< /Length 822 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3738,8 +3734,7 @@ Q
 q
 1 0 0 1 34.34646 252.6378 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Go to the assignement_homogeneity directory) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Go to the ) Tj /F4 10 Tf 0 0 0 rg (data/assignement_homogeneity ) Tj /F1 10 Tf 0 0 0 rg (directory) Tj T* ET
 Q
 Q
 q
@@ -3760,8 +3755,8 @@ Q
  
 endstream
 endobj
-167 0 obj
-<< /Length 2222 >>
+166 0 obj
+<< /Length 1901 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3867,16 +3862,48 @@ BT 1 0 0 1 0 14 Tm 5.394199 Tw 12 TL /F1 10 Tf 0 0 0 rg (sox is command line uti
 Q
 Q
 q
-1 0 0 1 34.34646 94.2378 cm
+1 0 0 1 34.34646 112.2378 cm
+Q
+q
+1 0 0 1 28.34646 28.34646 cm
+q
+BT 1 0 0 1 0 2 Tm 123.1152 0 Td 12 TL /F1 10 Tf 0 0 0 rg (PhD Toolbox course - 2017-04-19) Tj T* -123.1152 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+167 0 obj
+<< /Length 842 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 270.6378 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (for assignment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 252.6378 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (for f in $\(ls ) Tj /F3 10 Tf (DP3) Tj /F1 10 Tf (.Pitch\); do cp $f DP3; done) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 76.2378 cm
+1 0 0 1 34.34646 234.6378 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (for f in ) Tj /F3 10 Tf (ratsy. ) Tj /F1 10 Tf (;do mv $f ${f/ratsy/ratsytarehy};done) Tj T* ET
 Q
+Q
+q
+1 0 0 1 34.34646 216.6378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find . -type f -exec mv {} . ;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 216.6378 cm
 Q
 q
 1 0 0 1 28.34646 28.34646 cm
@@ -3888,29 +3915,6 @@ Q
 endstream
 endobj
 168 0 obj
-<< /Length 367 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 34.34646 279.6378 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find . -type f -exec mv {} . ;) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 279.6378 cm
-Q
-q
-1 0 0 1 28.34646 28.34646 cm
-q
-BT 1 0 0 1 0 2 Tm 123.1152 0 Td 12 TL /F1 10 Tf 0 0 0 rg (PhD Toolbox course - 2017-04-19) Tj T* -123.1152 0 Td ET
-Q
-Q
- 
-endstream
-endobj
-169 0 obj
 << /Length 1980 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -4043,8 +4047,8 @@ Q
  
 endstream
 endobj
-170 0 obj
-<< /Length 2895 >>
+169 0 obj
+<< /Length 3504 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -4054,26 +4058,43 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assignements) Tj T* ET
 Q
 Q
 q
+1 0 0 1 34.34646 258.6378 cm
+Q
+q
+1 0 0 1 34.34646 258.6378 cm
+Q
+q
+1 0 0 1 34.34646 246.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Go to the ) Tj /F4 10 Tf 0 0 0 rg (data/assignement_display ) Tj /F1 10 Tf 0 0 0 rg (directory) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 34.34646 240.6378 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (in assignement_display directory) Tj T* ET
-Q
 Q
 q
-1 0 0 1 34.34646 228.6378 cm
-Q
-q
-1 0 0 1 34.34646 228.6378 cm
-Q
-q
-1 0 0 1 34.34646 204.6378 cm
+1 0 0 1 34.34646 216.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 9 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
 Q
 Q
 q
@@ -4086,59 +4107,16 @@ q
 Q
 Q
 q
-1 0 0 1 34.34646 204.6378 cm
+1 0 0 1 34.34646 216.6378 cm
 Q
 q
-1 0 0 1 34.34646 162.6378 cm
-q
-BT 1 0 0 1 0 26 Tm 1.762533 Tw 12 TL /F1 10 Tf 0 0 0 rg (awk -F',' '{print NF}' parking_violation_year_2014.csv | sort | uniq -c awk -F',' '{print) Tj T* 0 Tw 6.292039 Tw (NF}' parking_violation_year_2014.csv | nl | awk '{if \($2==46\) {print $1}}' >) Tj T* 0 Tw (rows_to_delete cat rows_to_delete | while read r; do sed -i "$r"'d' p; done) Tj T* ET
-Q
+1 0 0 1 34.34646 210.6378 cm
 Q
 q
-1 0 0 1 34.34646 156.6378 cm
+1 0 0 1 34.34646 210.6378 cm
 Q
 q
-1 0 0 1 34.34646 156.6378 cm
-Q
-q
-1 0 0 1 34.34646 144.6378 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (how many different cars have made a parking violation?) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 34.34646 144.6378 cm
-Q
-q
-1 0 0 1 34.34646 126.6378 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 120.6378 cm
-Q
-q
-1 0 0 1 34.34646 120.6378 cm
-Q
-q
-1 0 0 1 34.34646 108.6378 cm
+1 0 0 1 34.34646 198.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4152,6 +4130,36 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (how many different cars have made a parking violation?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 198.6378 cm
+Q
+q
+1 0 0 1 34.34646 192.6378 cm
+Q
+q
+1 0 0 1 34.34646 192.6378 cm
+Q
+q
+1 0 0 1 34.34646 180.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (what is the car plate that made the greatest number of parking violations?) Tj T* ET
 Q
 Q
@@ -4159,48 +4167,52 @@ q
 Q
 Q
 q
-1 0 0 1 34.34646 108.6378 cm
+1 0 0 1 34.34646 180.6378 cm
 Q
 q
-1 0 0 1 34.34646 90.6378 cm
+1 0 0 1 34.34646 174.6378 cm
+Q
+q
+1 0 0 1 34.34646 174.6378 cm
+Q
+q
+1 0 0 1 34.34646 162.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (awk -F',' '{print $2}' parking_violation_year_2014.csv | sort | uniq -c | sort -nr) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
 Q
 Q
 q
-1 0 0 1 34.34646 60.6378 cm
+1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.428693 Tw 12 TL /F1 10 Tf 0 0 0 rg (4. extract date column and convert it to ISO8601 date awk -F'/' '{for \(i=3; i) Tj (<) Tj (=3; i++\)) Tj T* 0 Tw ({print $i}}' date.txt) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (extract date column and convert it to ISO8601 date) Tj T* ET
 Q
 Q
 q
-1 0 0 1 28.34646 28.34646 cm
-q
-BT 1 0 0 1 0 2 Tm 123.1152 0 Td 12 TL /F1 10 Tf 0 0 0 rg (PhD Toolbox course - 2017-04-19) Tj T* -123.1152 0 Td ET
 Q
 Q
- 
-endstream
-endobj
-171 0 obj
-<< /Length 983 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 34.34646 273.6378 cm
+1 0 0 1 34.34646 162.6378 cm
+Q
+q
+1 0 0 1 34.34646 132.6378 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (in assignement_many_files directory) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 261.6378 cm
+1 0 0 1 34.34646 120.6378 cm
 Q
 q
-1 0 0 1 34.34646 261.6378 cm
+1 0 0 1 34.34646 120.6378 cm
 Q
 q
-1 0 0 1 34.34646 249.6378 cm
+1 0 0 1 34.34646 108.6378 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -4221,14 +4233,31 @@ q
 Q
 Q
 q
-1 0 0 1 34.34646 249.6378 cm
+1 0 0 1 34.34646 102.6378 cm
 Q
 q
-1 0 0 1 34.34646 219.6378 cm
+1 0 0 1 34.34646 90.6378 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.420021 Tw (2\) Check if all files are different sort 1md5sum | awk '{print $1}' | uniq -d | grep -f -) Tj T* 0 Tw (1md5sum) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
 Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Check if all files are different) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 34.34646 90.6378 cm
 Q
 q
 1 0 0 1 28.34646 28.34646 cm
@@ -4239,154 +4268,151 @@ Q
  
 endstream
 endobj
-172 0 obj
-<< /Nums [ 0 173 0 R 1 174 0 R 2 175 0 R 3 176 0 R 4 177 0 R 
-  5 178 0 R 6 179 0 R 7 180 0 R 8 181 0 R 9 182 0 R 
-  10 183 0 R 11 184 0 R 12 185 0 R 13 186 0 R 14 187 0 R 
-  15 188 0 R 16 189 0 R 17 190 0 R 18 191 0 R 19 192 0 R 
-  20 193 0 R 21 194 0 R 22 195 0 R 23 196 0 R 24 197 0 R 
-  25 198 0 R 26 199 0 R 27 200 0 R 28 201 0 R 29 202 0 R 
-  30 203 0 R 31 204 0 R 32 205 0 R 33 206 0 R 34 207 0 R 
-  35 208 0 R 36 209 0 R 37 210 0 R 38 211 0 R 39 212 0 R 
-  40 213 0 R 41 214 0 R 42 215 0 R 43 216 0 R 44 217 0 R ] >>
+170 0 obj
+<< /Nums [ 0 171 0 R 1 172 0 R 2 173 0 R 3 174 0 R 4 175 0 R 
+  5 176 0 R 6 177 0 R 7 178 0 R 8 179 0 R 9 180 0 R 
+  10 181 0 R 11 182 0 R 12 183 0 R 13 184 0 R 14 185 0 R 
+  15 186 0 R 16 187 0 R 17 188 0 R 18 189 0 R 19 190 0 R 
+  20 191 0 R 21 192 0 R 22 193 0 R 23 194 0 R 24 195 0 R 
+  25 196 0 R 26 197 0 R 27 198 0 R 28 199 0 R 29 200 0 R 
+  30 201 0 R 31 202 0 R 32 203 0 R 33 204 0 R 34 205 0 R 
+  35 206 0 R 36 207 0 R 37 208 0 R 38 209 0 R 39 210 0 R 
+  40 211 0 R 41 212 0 R 42 213 0 R 43 214 0 R ] >>
 endobj
-173 0 obj
+171 0 obj
 << /S /D /St 1 >>
 endobj
-174 0 obj
+172 0 obj
 << /S /D /St 2 >>
 endobj
-175 0 obj
+173 0 obj
 << /S /D /St 3 >>
 endobj
-176 0 obj
+174 0 obj
 << /S /D /St 4 >>
 endobj
-177 0 obj
+175 0 obj
 << /S /D /St 5 >>
 endobj
-178 0 obj
+176 0 obj
 << /S /D /St 6 >>
 endobj
-179 0 obj
+177 0 obj
 << /S /D /St 7 >>
 endobj
-180 0 obj
+178 0 obj
 << /S /D /St 8 >>
 endobj
-181 0 obj
+179 0 obj
 << /S /D /St 9 >>
 endobj
-182 0 obj
+180 0 obj
 << /S /D /St 10 >>
 endobj
-183 0 obj
+181 0 obj
 << /S /D /St 11 >>
 endobj
-184 0 obj
+182 0 obj
 << /S /D /St 12 >>
 endobj
-185 0 obj
+183 0 obj
 << /S /D /St 13 >>
 endobj
-186 0 obj
+184 0 obj
 << /S /D /St 14 >>
 endobj
-187 0 obj
+185 0 obj
 << /S /D /St 15 >>
 endobj
-188 0 obj
+186 0 obj
 << /S /D /St 16 >>
 endobj
-189 0 obj
+187 0 obj
 << /S /D /St 17 >>
 endobj
-190 0 obj
+188 0 obj
 << /S /D /St 18 >>
 endobj
-191 0 obj
+189 0 obj
 << /S /D /St 19 >>
 endobj
-192 0 obj
+190 0 obj
 << /S /D /St 20 >>
 endobj
-193 0 obj
+191 0 obj
 << /S /D /St 21 >>
 endobj
-194 0 obj
+192 0 obj
 << /S /D /St 22 >>
 endobj
-195 0 obj
+193 0 obj
 << /S /D /St 23 >>
 endobj
-196 0 obj
+194 0 obj
 << /S /D /St 24 >>
 endobj
-197 0 obj
+195 0 obj
 << /S /D /St 25 >>
 endobj
-198 0 obj
+196 0 obj
 << /S /D /St 26 >>
 endobj
-199 0 obj
+197 0 obj
 << /S /D /St 27 >>
 endobj
-200 0 obj
+198 0 obj
 << /S /D /St 28 >>
 endobj
-201 0 obj
+199 0 obj
 << /S /D /St 29 >>
 endobj
-202 0 obj
+200 0 obj
 << /S /D /St 30 >>
 endobj
-203 0 obj
+201 0 obj
 << /S /D /St 31 >>
 endobj
-204 0 obj
+202 0 obj
 << /S /D /St 32 >>
 endobj
-205 0 obj
+203 0 obj
 << /S /D /St 33 >>
 endobj
-206 0 obj
+204 0 obj
 << /S /D /St 34 >>
 endobj
-207 0 obj
+205 0 obj
 << /S /D /St 35 >>
 endobj
-208 0 obj
+206 0 obj
 << /S /D /St 36 >>
 endobj
-209 0 obj
+207 0 obj
 << /S /D /St 37 >>
 endobj
-210 0 obj
+208 0 obj
 << /S /D /St 38 >>
 endobj
-211 0 obj
+209 0 obj
 << /S /D /St 39 >>
 endobj
-212 0 obj
+210 0 obj
 << /S /D /St 40 >>
 endobj
-213 0 obj
+211 0 obj
 << /S /D /St 41 >>
 endobj
-214 0 obj
+212 0 obj
 << /S /D /St 42 >>
 endobj
-215 0 obj
+213 0 obj
 << /S /D /St 43 >>
 endobj
-216 0 obj
+214 0 obj
 << /S /D /St 44 >>
 endobj
-217 0 obj
-<< /S /D /St 45 >>
-endobj
 xref
-0 218
+0 215
 0000000000 65535 f
 0000000075 00000 n
 0000000140 00000 n
@@ -4459,157 +4485,154 @@ xref
 0000227791 00000 n
 0000228003 00000 n
 0000228215 00000 n
-0000228427 00000 n
-0000228538 00000 n
-0000228800 00000 n
-0000228879 00000 n
-0000229031 00000 n
-0000229146 00000 n
-0000229271 00000 n
-0000229407 00000 n
-0000229580 00000 n
-0000229735 00000 n
-0000229858 00000 n
-0000229981 00000 n
-0000230108 00000 n
-0000230234 00000 n
-0000230361 00000 n
-0000230483 00000 n
-0000230614 00000 n
-0000230743 00000 n
-0000230910 00000 n
-0000231021 00000 n
-0000231142 00000 n
-0000231272 00000 n
-0000231412 00000 n
-0000231600 00000 n
-0000231708 00000 n
-0000231887 00000 n
-0000231985 00000 n
-0000232165 00000 n
-0000232263 00000 n
-0000232446 00000 n
-0000232567 00000 n
-0000232693 00000 n
-0000232835 00000 n
-0000232961 00000 n
-0000233104 00000 n
-0000233269 00000 n
-0000233367 00000 n
-0000233491 00000 n
-0000233614 00000 n
-0000233739 00000 n
-0000233864 00000 n
-0000233987 00000 n
-0000234112 00000 n
-0000234237 00000 n
-0000234362 00000 n
-0000234541 00000 n
-0000234648 00000 n
-0000234772 00000 n
-0000234908 00000 n
-0000235074 00000 n
-0000235175 00000 n
-0000235299 00000 n
-0000235460 00000 n
-0000235600 00000 n
-0000235743 00000 n
-0000236131 00000 n
-0000236781 00000 n
-0000238763 00000 n
-0000239995 00000 n
-0000241980 00000 n
-0000243021 00000 n
-0000244095 00000 n
-0000245083 00000 n
-0000245998 00000 n
-0000246793 00000 n
-0000248945 00000 n
-0000249642 00000 n
-0000250611 00000 n
-0000251556 00000 n
-0000253582 00000 n
-0000255928 00000 n
-0000257774 00000 n
-0000258270 00000 n
-0000258792 00000 n
-0000259446 00000 n
-0000261748 00000 n
-0000263949 00000 n
-0000265648 00000 n
-0000266698 00000 n
-0000268471 00000 n
-0000269714 00000 n
-0000270133 00000 n
-0000271230 00000 n
-0000272318 00000 n
-0000273894 00000 n
-0000275459 00000 n
-0000277870 00000 n
-0000279287 00000 n
-0000279860 00000 n
-0000283073 00000 n
-0000284219 00000 n
-0000287322 00000 n
-0000288599 00000 n
-0000289646 00000 n
-0000292189 00000 n
-0000293014 00000 n
-0000295294 00000 n
-0000295718 00000 n
-0000297756 00000 n
-0000300709 00000 n
-0000301749 00000 n
-0000302302 00000 n
-0000302340 00000 n
-0000302378 00000 n
-0000302416 00000 n
-0000302454 00000 n
-0000302492 00000 n
-0000302530 00000 n
-0000302568 00000 n
-0000302606 00000 n
-0000302644 00000 n
-0000302683 00000 n
-0000302722 00000 n
-0000302761 00000 n
-0000302800 00000 n
-0000302839 00000 n
-0000302878 00000 n
-0000302917 00000 n
-0000302956 00000 n
-0000302995 00000 n
-0000303034 00000 n
-0000303073 00000 n
-0000303112 00000 n
-0000303151 00000 n
-0000303190 00000 n
-0000303229 00000 n
-0000303268 00000 n
-0000303307 00000 n
-0000303346 00000 n
-0000303385 00000 n
-0000303424 00000 n
-0000303463 00000 n
-0000303502 00000 n
-0000303541 00000 n
-0000303580 00000 n
-0000303619 00000 n
-0000303658 00000 n
-0000303697 00000 n
-0000303736 00000 n
-0000303775 00000 n
-0000303814 00000 n
-0000303853 00000 n
-0000303892 00000 n
-0000303931 00000 n
-0000303970 00000 n
-0000304009 00000 n
+0000228326 00000 n
+0000228588 00000 n
+0000228667 00000 n
+0000228819 00000 n
+0000228934 00000 n
+0000229059 00000 n
+0000229195 00000 n
+0000229368 00000 n
+0000229523 00000 n
+0000229646 00000 n
+0000229769 00000 n
+0000229896 00000 n
+0000230022 00000 n
+0000230149 00000 n
+0000230271 00000 n
+0000230402 00000 n
+0000230531 00000 n
+0000230698 00000 n
+0000230809 00000 n
+0000230930 00000 n
+0000231060 00000 n
+0000231200 00000 n
+0000231388 00000 n
+0000231496 00000 n
+0000231675 00000 n
+0000231773 00000 n
+0000231952 00000 n
+0000232050 00000 n
+0000232232 00000 n
+0000232352 00000 n
+0000232477 00000 n
+0000232619 00000 n
+0000232745 00000 n
+0000232888 00000 n
+0000233053 00000 n
+0000233151 00000 n
+0000233275 00000 n
+0000233398 00000 n
+0000233523 00000 n
+0000233648 00000 n
+0000233771 00000 n
+0000233896 00000 n
+0000234021 00000 n
+0000234146 00000 n
+0000234325 00000 n
+0000234432 00000 n
+0000234556 00000 n
+0000234692 00000 n
+0000234858 00000 n
+0000234959 00000 n
+0000235094 00000 n
+0000235218 00000 n
+0000235379 00000 n
+0000235508 00000 n
+0000235889 00000 n
+0000236539 00000 n
+0000238521 00000 n
+0000239753 00000 n
+0000241738 00000 n
+0000242779 00000 n
+0000243855 00000 n
+0000244843 00000 n
+0000245758 00000 n
+0000246553 00000 n
+0000248705 00000 n
+0000249402 00000 n
+0000250371 00000 n
+0000251316 00000 n
+0000253342 00000 n
+0000255688 00000 n
+0000257534 00000 n
+0000258030 00000 n
+0000258552 00000 n
+0000259206 00000 n
+0000261508 00000 n
+0000263709 00000 n
+0000265408 00000 n
+0000266458 00000 n
+0000268231 00000 n
+0000269474 00000 n
+0000269893 00000 n
+0000270990 00000 n
+0000272078 00000 n
+0000273654 00000 n
+0000275219 00000 n
+0000277630 00000 n
+0000279047 00000 n
+0000279620 00000 n
+0000282833 00000 n
+0000283979 00000 n
+0000287082 00000 n
+0000288359 00000 n
+0000289411 00000 n
+0000291954 00000 n
+0000292833 00000 n
+0000294792 00000 n
+0000295691 00000 n
+0000297729 00000 n
+0000301291 00000 n
+0000301833 00000 n
+0000301871 00000 n
+0000301909 00000 n
+0000301947 00000 n
+0000301985 00000 n
+0000302023 00000 n
+0000302061 00000 n
+0000302099 00000 n
+0000302137 00000 n
+0000302175 00000 n
+0000302214 00000 n
+0000302253 00000 n
+0000302292 00000 n
+0000302331 00000 n
+0000302370 00000 n
+0000302409 00000 n
+0000302448 00000 n
+0000302487 00000 n
+0000302526 00000 n
+0000302565 00000 n
+0000302604 00000 n
+0000302643 00000 n
+0000302682 00000 n
+0000302721 00000 n
+0000302760 00000 n
+0000302799 00000 n
+0000302838 00000 n
+0000302877 00000 n
+0000302916 00000 n
+0000302955 00000 n
+0000302994 00000 n
+0000303033 00000 n
+0000303072 00000 n
+0000303111 00000 n
+0000303150 00000 n
+0000303189 00000 n
+0000303228 00000 n
+0000303267 00000 n
+0000303306 00000 n
+0000303345 00000 n
+0000303384 00000 n
+0000303423 00000 n
+0000303462 00000 n
+0000303501 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(b\362\277\327\312iU\320:M\276\316vY\271:) (b\362\277\327\312iU\320:M\276\316vY\271:)]
- /Info 73 0 R /Root 72 0 R /Size 218 >>
+ [(\275s\224i^*s\306czL\242\011\)\374\260) (\275s\224i^*s\306czL\242\011\)\374\260)]
+ /Info 72 0 R /Root 71 0 R /Size 215 >>
 startxref
-304048
+303540
 %%EOF
