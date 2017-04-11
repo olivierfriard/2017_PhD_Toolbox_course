@@ -35,10 +35,9 @@ Big data
 large files
 -----------
 
-- Have you ever tried to verify a large matrix (1000x1000 cells) with Excel?
+- Have you ever tried to load a matrix of 1000x1000 cells with Excel?
 
 - great numbers of lines
-
 
 
 great number of files
