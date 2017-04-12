@@ -67,7 +67,7 @@ Various tools are available to access (very large) files from the command-line:
 `cat`_, `wc`_, `head`_, `tail`_, `nl`_, `sort`_, `uniq`_, `grep`_, `uniq`_, `awk`_, `sed`_, ...
 
 
-During this part of this Big data module we will see how they work and how they can be used together
+During this part of the Big data module we will see how they work and how they can be used together
 to extract important features.
 
 
@@ -434,19 +434,25 @@ Using more CPU/Threads
 ls
 ==
 
-LiSt
------
 
-list files
+``ls`` LiSts files in current directory
 
- ::
+Options:
 
-    ls
-    ls -l
-    ls -la
+-l    column output
+-a    all files
+-h    output for human
+-R    recurse all dir
+
+Examples:
+
+::
+
+
     ls -ltr
     ls -lh
     ls -lR
+
 
 
 cat
@@ -822,6 +828,21 @@ display the unique values of the sorted first column (fields separated by ``;``)
  ::
 
     awk -F";" '{print $1}' | sort | uniq
+
+
+
+and now some magic...
+======================
+
+::
+
+    awk 'BEGIN {FS=OFS="\t"} { for (i=1;i<=NF;i++)
+    { arr[NR,i]=$i; if(big <= NF) big=NF; } } END
+    { for(i=1;i<=big;i++) { for(j=1;j<=NR;j++)
+    { printf(\"%s%s\",arr[j,i], (j==NR ? "" : OFS)); }
+     print ""; } }' matrix.tsv
+
+awk script for matrix transposition
 
 
 
