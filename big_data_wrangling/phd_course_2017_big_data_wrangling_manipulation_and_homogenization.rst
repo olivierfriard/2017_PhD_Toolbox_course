@@ -30,32 +30,47 @@ Big data
 ========
 
 
-large files
------------
+Very large files
+-----------------
 
-- Have you ever tried to load a matrix of 1000x1000 cells with Excel?
-
-- great numbers of lines
+- large numbers of lines
 
 
-great number of files
+
+- large matrices
+
+Have you ever tried to load a matrix of 1000x1000 cells with Excel?
+
+
+
+
+
+Big data
+========
+
+Large number of files
 ---------------------
 
 - How to handle 1000s of files?
 
-In this case the bash allows the use of iteration techniques
+In this case we will use the filename expansion and/or iteration techniques
+
+
 
 
 
 Command-line tools
 ==================
 
-Various tools are available to access very large files or
+Various tools are available to access (very large) files from the command-line:
 
-`cat`_, `wc`_, `head`_, `tail`_, `nl`_, `sort`_, `uniq`_, `grep`_, `uniq`_, `awk_`, `sed`_
+`cat`_, `wc`_, `head`_, `tail`_, `nl`_, `sort`_, `uniq`_, `grep`_, `uniq`_, `awk`_, `sed`_, ...
 
 
-We will see how they work
+During this part of this Big data module we will see how they work and how they can be used together
+to extract important features.
+
+
 
 
 
@@ -186,6 +201,31 @@ A plain text file uses a characters set and contains no formatting or images.
 
 
 
+Text editors
+=============
+
+When your file is not so big you can use a text editor to check it.
+
+There are a lot of good free/open-source text editors that will do the job:
+
+- Linux: Geany, Sublimetext, Atom, Kate ...
+- Windows: Geany, Notepad++, ...
+- macOS: Geany, textedit ...
+
+
+
+Text editor screenshot
+=======================
+
+.. image:: geany_example.png
+   :width: 900
+
+In this example the editor visualize end-of-line character, tab and spaces and uses the UTF-8 encoding.
+
+
+
+
+
 
 Text encoding
 =============
@@ -216,6 +256,8 @@ Important: Use a text editor that is capable to interpret all end-of-line charac
 Note that results files that come from remote servers (for example bioinformatic ones) are always with LF
 
 
+
+
 File name
 =========
 
@@ -243,26 +285,6 @@ Case sensitivity
 So be careful when transfering file from Unixes to/from Windows
 
 
-Text editors
-=============
-
-When your file is not so big you can use a text editor to check it.
-
-There are a lot of good free/open-source text editors that will do the job:
-
-- Linux: Geany, Sublimetext, Atom, Kate ...
-- Windows: Geany, Notepad++, ...
-- macOS: Geany, textedit ...
-
-
-
-Text editor screenshot
-=======================
-
-.. image:: geany_example.png
-   :width: 900
-
-In this example the editor visualize end-of-line character, tab and spaces and uses the UTF-8 encoding.
 
 
 
@@ -271,8 +293,8 @@ In this example the editor visualize end-of-line character, tab and spaces and u
 
 
 
-Anatomy of a command-line tool
-==============================
+Data flow
+=========
 
 Standard streams
 -----------------
@@ -356,8 +378,8 @@ redirection of stdout and stderr to a file
 
 
 
-input
-=====
+input - file name extension
+===========================
 
 If you have multiple files to handle, you can use a wildcard in your file name.
 
@@ -480,6 +502,13 @@ display only the first row:
     head -n 1 matrix.tsv
 
 
+ display all lines except 10 last
+
+ ::
+
+    head -n -10
+
+
 
 
 tail
@@ -497,6 +526,13 @@ display continously the end of a file:
  ::
 
     tail -f results.txt
+
+
+display last 25 rows of file
+
+ ::
+
+    tail -n -25 results.txt
 
 
 display rows from 100 to 105:
@@ -548,23 +584,48 @@ sort
 
 ``sort`` sorts the contents of the input files, line by line
 
+Options:
 
-* -n   (or --numeric-sort)
+-n  numeric sort
 
-* -k FIELD1,FIELD2
+-k  start_field, end_field_pos  sort by field
 
-* -r   (or --reverse)
+-r   reverse sort
 
-* -f   (or --ignore-case)
+-f   ignore case
 
 
 ::
 
-    sort
+    sort -f names.txt
+
+
+Important: the ``-R`` option (random sort) do not work as expected
+
+
+shuf
+====
+
+``shuf`` generate random permutations
+
+-r  output lines can be repeated
+
 
 and now an easy assignment to begin...
 
-assignement_sort: sort the various files (fruits.txt, numeric_values.txt and fruits_numeric.txt by 2nd column)
+
+sort assignement
+================
+
+1. Go to the ``data/assignement_sort`` directory
+
+2. sort the various files (``fruits.txt``, ``numeric_values.txt`` and ``fruits_numeric.txt`` by 2nd column)
+
+3. sort the ``names.txt`` file by first column (the row header must remain as first row)
+
+4. shuffle the ``names.txt`` file and save it as ``names_shuffled.txt``
+
+
 
 
 uniq
@@ -572,13 +633,21 @@ uniq
 
 ``uniq`` reports or filters out repeated lines in a file.
 
-Important: the input must be sorted (use the **sort** command before applying uniq)
+Important: the input must be sorted (use the ``sort`` command before applying uniq)
 
 ::
 
     cat fruits.txt | sort | uniq
     cat fruits.txt | sort | uniq -c
     cat fruits.txt | sort | uniq -d
+
+comm
+====
+
+``comm`` compare sorted files FILE1 and FILE2 line-by-line.
+
+
+
 
 
 grep
@@ -659,6 +728,9 @@ Delete all rows containing apples
 Important: the -i option make transformations irreversible!
 
 
+
+
+
 sed assignement
 ===============
 
@@ -702,12 +774,26 @@ sox is command line utility that can convert various formats of audio files
 for assignment
 ==============
 
+1. Go to ``data/assignment_for`` directory
 
-for f in $(ls *DP3*.Pitch); do cp $f DP3; done
+2. Check if file names contain spaces
 
-for f in *ratsy.* ;do mv $f ${f/ratsy/ratsytarehy};done
+.. grep " "
 
-find . -type f -exec mv {} . \;
+3. Replace all spaces in file names by ``_`` (underscore)
+
+.. for f in * ; do n=`echo $f | tr "[:blank:]" "_"` ; mv "$f" "$n" ;done
+
+4. Downsample all the WAV files to 22000 Hz. You can use the sox command-line utility
+
+.. for f in *.wav; do sox $f -r 22000 $f.22000.wav; done
+
+
+
+
+.. for f in $(ls *DP3*.Pitch); do cp $f DP3; done
+   for f in *ratsy.* ;do mv $f ${f/ratsy/ratsytarehy};done
+   find . -type f -exec mv {} . \;
 
 
 
@@ -724,17 +810,18 @@ filter files (like grep do)
     awk '/banana/ {print $0}' fruits.txt
 
 
-print number of fields of tab separated values file
+display the number of fields of tab separated values file:
 
  ::
 
     awk -F'\t' '{print NF}'
 
 
+display the unique values of the sorted first column (fields separated by ``;``)
 
  ::
 
-    ls *.wav | awk -F"_" '{print $1}' | sort | uniq
+    awk -F";" '{print $1}' | sort | uniq
 
 
 
@@ -767,20 +854,26 @@ Assignements
 5. extract date column and convert it to ISO8601 date
 
 
-.. awk -F'/' '{for (i=3; i<=3; i++) {print $i}}' date.txt
+..  awk -F',' '{print $4}' parking_violation_year_2014 > date.txt
+    awk -F'/' '{print $3"-"$1"-"$2}' date.txt > date_ISO.txt
+
+    awk -F'/' '{for (i=3; i<=3; i++) {print $i}}' date.txt
 
 
+6. Go to the ``data/assignement_many_files`` directory
 
 
-in assignement_many_files directory
------------------------------------
+7. check homogeneity of animal names and sound type in all files
 
+.. awk
 
-1) check homogeneity of animal names in all files
-
-
-2) Check if all files are different
+8. Check if all files are different
 
 .. sort 1md5sum | awk '{print $1}' | uniq -d | grep -f - 1md5sum
+
+
+9. Check if all files have same type
+
+.. file -b *
 
 
