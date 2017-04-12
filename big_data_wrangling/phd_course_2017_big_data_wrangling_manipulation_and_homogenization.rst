@@ -548,11 +548,13 @@ display rows from 100 to 105:
     head -n 105 results.txt | tail -n 5
 
 
+Assignement display
+===================
 
 
-assignement_display:
+1. Go to ``data/assignement_display`` directory
 
-display the row #9099873 of the parking_violation_2014.csv file
+2. display the row #9099873 of the parking_violation_2014.csv file
 
 
 
@@ -641,16 +643,16 @@ uniq
 
 Important: the input must be sorted (use the ``sort`` command before applying uniq)
 
+Options:
+
+-c  counts the duplicate rows
+-d  display only duplicated rows
+
 ::
 
-    cat fruits.txt | sort | uniq
-    cat fruits.txt | sort | uniq -c
-    cat fruits.txt | sort | uniq -d
-
-comm
-====
-
-``comm`` compare sorted files FILE1 and FILE2 line-by-line.
+    sort fruits.txt | uniq
+    sort fruits.txt | uniq -c
+    sort fruits.txt | uniq -d
 
 
 
@@ -690,6 +692,7 @@ Options:
     grep 'banana$' fruits.txt
 
 
+
 grep assignement
 ================
 
@@ -697,12 +700,45 @@ grep assignement
 shopping list
 --------------
 
-Go to the ``data/assignement_grep`` directory
+1. Go to the ``data/assignement_grep`` directory
 
-Create a file containing the shopping list: ingredients present in ``recipe.txt`` file that are not in ``in_house.txt`` file
-
+2. Create a file containing the shopping list: ingredients present in ``recipe.txt`` file that are not in ``in_house.txt`` file
 
 .. sort recipes.txt in_house.txt | uniq -d | grep -v -f - recipes.txt
+
+
+comm
+====
+
+``comm`` compare sorted files FILE1 and FILE2 line-by-line.
+
+Important: like with ``uniq`` the input must be sorted (use the ``sort`` command before applying comm)
+
+ ::
+
+    comm recipe.txt in_house.txt
+
+The output will be composed of 3 columns:
+
+- 1st column will contain elements only found in 1st file
+- 2nd column will contain elements only found in 2nd file
+- 3rd column will contain elements found in 1st and 2nd file
+
+
+
+comm assignment
+===============
+
+1. Go to the ``data/assignement_grep`` directory
+
+2. Create a file containing the shopping list (see previous assignment) using the ``comm`` command.
+
+.. sort recipe.txt > recipe_sorted.txt; sort in_house.txt > in_house_sorted.txt;
+   comm recipe_sorted.txt in_house_sorted.txt | awk -F '\t' '{print $1}' | grep -v ^$
+
+
+   comm <(sort recipes.txt) <(sort in_house.txt) | awk -F '\t' '{print $1}' | grep -v ^$
+
 
 
 sed
